@@ -88,9 +88,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="options_main.wav" />
     <Content Include="TuxRacerLauncher.ico" />
   </ItemGroup>
